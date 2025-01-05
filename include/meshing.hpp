@@ -26,6 +26,6 @@ void createMesh(const Mat& colorImage, const Mat& depthMap, vector<Vertex>& vert
 // Function to save the mesh in OBJ format
 void saveMeshToOBJ(const string& filename, const vector<Vertex>& vertices, const vector<Triangle>& triangles);
 
-void generateMesh(const string& colorImagePath, const string& depthMapPath, const string& outputMeshPath);
+void generateMesh(const string& colorImagePath, const string& depthMapPath, const string& outputMeshPath, bool withTears);
 
 #endif // MESHING_HPP
