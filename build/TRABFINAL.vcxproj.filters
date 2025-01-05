@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\biaso\Desktop\UFRGS\semestre4\FPI\trabFinal\Naive-Instant-3d-Photography\src\featureMatching.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\biaso\Desktop\UFRGS\semestre4\FPI\trabFinal\Naive-Instant-3d-Photography\src\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\biaso\Desktop\UFRGS\semestre4\FPI\trabFinal\Naive-Instant-3d-Photography\src\meshing.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\biaso\Desktop\UFRGS\semestre4\FPI\trabFinal\Naive-Instant-3d-Photography\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{DEAFAAB4-30F4-38AD-94DA-8DA46FF61C1B}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

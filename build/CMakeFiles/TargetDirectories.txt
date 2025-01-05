@@ -1,0 +1,3 @@
+C:/Users/biaso/Desktop/UFRGS/semestre4/FPI/trabFinal/Naive-Instant-3d-Photography/build/CMakeFiles/TRABFINAL.dir
+C:/Users/biaso/Desktop/UFRGS/semestre4/FPI/trabFinal/Naive-Instant-3d-Photography/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/biaso/Desktop/UFRGS/semestre4/FPI/trabFinal/Naive-Instant-3d-Photography/build/CMakeFiles/ZERO_CHECK.dir
